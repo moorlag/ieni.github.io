@@ -1,0 +1,7 @@
+# Site settings
+title: Keuzethemas
+description: Keuzethemas, gemaakt in Jekyll
+keywords: Modern, Blogging, Fun
+author: i&i
+baseurl: "/ieni" # the subpath of your site, e.g. /blog/
+url: "moorlag.github.io" # the base hostname & protocol for your site
