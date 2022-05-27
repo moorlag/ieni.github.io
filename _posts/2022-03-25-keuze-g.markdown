@@ -7,14 +7,64 @@ image: "img/g.png"
 date:   2022-03-25 12:12:12
 ---
 
-### Dolor sit amet!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### ALGORITMIEK
+## Zijn computers eigenlijk wel altijd zo snel?
+Met deze module ga je dieper in op algoritmen. Je leert meer algoritmen kennen en vooral leer je hoe je kunt bepalen hoe snel die algoritmen zijn, of beter gezegd, de efficiëntie van algoritmen. Computers kunnen snel rekenen, maar bij grote hoeveelheden data kan het toch weer heel lang duren. En dat is erg belangrijk voor allerlei toepassingen, in het ontwikkelen van medicijnen tot routenavigatie. Je wilt ten slotte niet minuten lang moeten wachten voordat de kortste weg naar de universiteit op je scherm verschijnt.
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+Ook logica komt aan bod, waarmee je beter kunt beredeneren of een algoritme eigenlijk wel correct is.
+### Domein
+[Domein G: Algoritmiek, berekenbaarheid en logica](https://slo.nl/handreikingen/havo-vwo/handreiking-se-info-hv/examenprogramma/keuzedomeinen/algoritmiek/)
+## Voor wie
+De module is met name geschikt voor leerlingen uit de 5e of 6e klas vwo. Havo-leerlingen uit de 5e klas die hier uitdaging in zien, kunnen er ook mee uit de voeten.
+![Afbeelding uit het lesmateriaal over efficiëntie van twee zoek-algoritmes](algoritmiek-1.png)
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+### Activiteiten
+Dit zijn de belangrijkste activiteiten binnen de module.
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+Je kunt het materiaal redelijk zelfstandig doorlopen, het wordt stap voor stap uitgelegd en je kunt gelijk je eigen antwoorden controleren.
+- In het eerste deel leer je hoe je de efficiëntie van een algoritme kunt meten. Je doet dit aan de hand van voorbeelden en kleine programmaatjes.
+- Vervolgens leer je hoe je de efficiëntie kunt beredeneren op basis van het algoritme. Op die manier kun je de looptijd van algoritmes met elkaar vergelijken.
+- In het deel over correctheid en logica ga je oefenen met het redeneren over allerlei logische uitspraken.
+- Als je wilt, kun je ook één of meerdere algoritmes programmeren.
+- Voor de eindopdracht ga je zelf een algoritme uitpluizen en proberen zo efficiënt mogelijk te maken.
+Hieronder zie je ter illustratie een opgave uit het lesmateriaal.
+![Ruilen voor een Keyboard](algoritmiek-2.png)
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+## Locatie lesmateriaal
+Het materiaal komt zomer 2020 beschikbaar via Notion.so
+
+Een conceptversie is beschikbaar [Notion.so](https://www.notion.so/Kwaliteit-van-algoritmen-testmateriaal-be645e7fd6ea42aca882b5b77a09b5d0)
+
+## Voor de docent
+### OPBOUW
+De module bestaat uit de volgende onderdelen:
+
+- Algoritmen en kwaliteit
+- Looptijden meten en beredeneren
+- Paden en afstanden
+- Benaderingen
+- Correctheid en logica
+- Eindopdracht
+
+__Docenten worden aangemoedigd unplugged activiteiten te gebruiken en begrippen toe te lichten en te introduceren.__
+
+## VEREISTE HARD- EN SOFTWARE
+Voor de programmeeropdrachten is een programmeeromgeving nodig, dat kan bijvoorbeeld in een online editor zoals Repl.it. De voorbeelden zijn uitgewerkt in Python.
+
+## VOORKENNIS
+De leerlingen zijn in staat algoritmes te lezen en op stellen met bijvoorbeeld een stroomdiagram. De leerlingen hebben een basis programmeren (zie domein D uit het kernprogramma). De voorbeelden in de module zijn in Python uitgewerkt, dus dat heeft de voorkeur.
+
+## BELANGRIJKSTE BEGRIPPEN
+De belangrijkste begrippen bij deze module zijn algoritme, efficiëntie (complexiteit), looptijd, mate van groei, orde, grote O notatie, zoeken, sorteren, kortste pad, kortste ronde, logica, proposities, waarheidstabellen, connectieven (en/of/niet), (wederzijdse) implicatie.
+
+## KEUZE EN VERDIEPING
+Voor de leerlingen die meer uitdaging aan kunnen staan er enkele programmeeropdrachten beschreven en uitgewerkt in Python.
+
+## WIJZE VAN BEOORDELEN
+Er wordt een voorbeeldtoets meegeleverd met het materiaal. Ook de eindopdracht, waarbij leerlingen zelf een algoritme uitpluizen en proberen zo efficiënt mogelijk te maken, kan worden beoordeeld.
+
+## OMVANG
+De module is ongeveer __40 SLU__.
+
+## DOCENTENHANDLEIDING
+De docentenhandleiding is beschikbaar via de online omgeving.

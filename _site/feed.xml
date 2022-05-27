@@ -6,8 +6,8 @@
         <link>moorlag.github.io/ieni/</link>
         <atom:link href="moorlag.github.io/ieni/feed.xml" rel="self"
         type="application/rss+xml"/>
-        <pubDate>Fri, 27 May 2022 22:15:27 +0200</pubDate>
-        <lastBuildDate>Fri, 27 May 2022 22:15:27 +0200</lastBuildDate>
+        <pubDate>Fri, 27 May 2022 22:25:09 +0200</pubDate>
+        <lastBuildDate>Fri, 27 May 2022 22:25:09 +0200</lastBuildDate>
         <generator>Jekyll v3.9.0</generator>
         
         <item>
@@ -247,8 +247,12 @@ Sinds september 2019&lt;/p&gt;
         
         <item>
             <title>Databases</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet?&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
+            <description>&lt;h3 id=&quot;algoritmiek&quot;&gt;ALGORITMIEK&lt;/h3&gt;
+&lt;h2 id=&quot;zijn-computers-eigenlijk-wel-altijd-zo-snel&quot;&gt;Zijn computers eigenlijk wel altijd zo snel?&lt;/h2&gt;
+
+&lt;p&gt;Met deze module ga je dieper in op algoritmen. Je leert meer algoritmen kennen en vooral leer je hoe je kunt bepalen hoe snel die algoritmen zijn, of beter gezegd, de efficiëntie van algoritmen. Computers kunnen snel rekenen, maar bij grote hoeveelheden data kan het toch weer heel lang duren. En dat is erg belangrijk voor allerlei toepassingen, in het ontwikkelen van medicijnen tot routenavigatie. Je wilt ten slotte niet minuten lang moeten wachten voordat de kortste weg naar de universiteit op je scherm verschijnt.&lt;/p&gt;
+
+&lt;p&gt;Ook logica komt aan bod, waarmee je beter kunt beredeneren of een algoritme eigenlijk wel correct is.&lt;/p&gt;
 
 &lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
 &lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
@@ -268,17 +272,71 @@ Sinds september 2019&lt;/p&gt;
         
         <item>
             <title>Algoritmiek</title>
-            <description>&lt;h3 id=&quot;dolor-sit-amet&quot;&gt;Dolor sit amet!&lt;/h3&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.&lt;/p&gt;
+            <description>&lt;h3 id=&quot;algoritmiek&quot;&gt;ALGORITMIEK&lt;/h3&gt;
+&lt;h2 id=&quot;zijn-computers-eigenlijk-wel-altijd-zo-snel&quot;&gt;Zijn computers eigenlijk wel altijd zo snel?&lt;/h2&gt;
+&lt;p&gt;Met deze module ga je dieper in op algoritmen. Je leert meer algoritmen kennen en vooral leer je hoe je kunt bepalen hoe snel die algoritmen zijn, of beter gezegd, de efficiëntie van algoritmen. Computers kunnen snel rekenen, maar bij grote hoeveelheden data kan het toch weer heel lang duren. En dat is erg belangrijk voor allerlei toepassingen, in het ontwikkelen van medicijnen tot routenavigatie. Je wilt ten slotte niet minuten lang moeten wachten voordat de kortste weg naar de universiteit op je scherm verschijnt.&lt;/p&gt;
 
-&lt;h3 id=&quot;aliquam-suscipit&quot;&gt;Aliquam suscipit.&lt;/h3&gt;
-&lt;p&gt;Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.&lt;/p&gt;
+&lt;p&gt;Ook logica komt aan bod, waarmee je beter kunt beredeneren of een algoritme eigenlijk wel correct is.&lt;/p&gt;
+&lt;h3 id=&quot;domein&quot;&gt;Domein&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://slo.nl/handreikingen/havo-vwo/handreiking-se-info-hv/examenprogramma/keuzedomeinen/algoritmiek/&quot;&gt;Domein G: Algoritmiek, berekenbaarheid en logica&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;voor-wie&quot;&gt;Voor wie&lt;/h2&gt;
+&lt;p&gt;De module is met name geschikt voor leerlingen uit de 5e of 6e klas vwo. Havo-leerlingen uit de 5e klas die hier uitdaging in zien, kunnen er ook mee uit de voeten.
+&lt;img src=&quot;algoritmiek-1.png&quot; alt=&quot;Afbeelding uit het lesmateriaal over efficiëntie van twee zoek-algoritmes&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.&lt;/p&gt;
+&lt;h3 id=&quot;activiteiten&quot;&gt;Activiteiten&lt;/h3&gt;
+&lt;p&gt;Dit zijn de belangrijkste activiteiten binnen de module.&lt;/p&gt;
 
-&lt;p&gt;Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.&lt;/p&gt;
+&lt;p&gt;Je kunt het materiaal redelijk zelfstandig doorlopen, het wordt stap voor stap uitgelegd en je kunt gelijk je eigen antwoorden controleren.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;In het eerste deel leer je hoe je de efficiëntie van een algoritme kunt meten. Je doet dit aan de hand van voorbeelden en kleine programmaatjes.&lt;/li&gt;
+  &lt;li&gt;Vervolgens leer je hoe je de efficiëntie kunt beredeneren op basis van het algoritme. Op die manier kun je de looptijd van algoritmes met elkaar vergelijken.&lt;/li&gt;
+  &lt;li&gt;In het deel over correctheid en logica ga je oefenen met het redeneren over allerlei logische uitspraken.&lt;/li&gt;
+  &lt;li&gt;Als je wilt, kun je ook één of meerdere algoritmes programmeren.&lt;/li&gt;
+  &lt;li&gt;Voor de eindopdracht ga je zelf een algoritme uitpluizen en proberen zo efficiënt mogelijk te maken.
+Hieronder zie je ter illustratie een opgave uit het lesmateriaal.
+&lt;img src=&quot;algoritmiek-2.png&quot; alt=&quot;Ruilen voor een Keyboard&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.&lt;/p&gt;
+&lt;h2 id=&quot;locatie-lesmateriaal&quot;&gt;Locatie lesmateriaal&lt;/h2&gt;
+&lt;p&gt;Het materiaal komt zomer 2020 beschikbaar via Notion.so&lt;/p&gt;
+
+&lt;p&gt;Een conceptversie is beschikbaar &lt;a href=&quot;https://www.notion.so/Kwaliteit-van-algoritmen-testmateriaal-be645e7fd6ea42aca882b5b77a09b5d0&quot;&gt;Notion.so&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;voor-de-docent&quot;&gt;Voor de docent&lt;/h2&gt;
+&lt;h3 id=&quot;opbouw&quot;&gt;OPBOUW&lt;/h3&gt;
+&lt;p&gt;De module bestaat uit de volgende onderdelen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Algoritmen en kwaliteit&lt;/li&gt;
+  &lt;li&gt;Looptijden meten en beredeneren&lt;/li&gt;
+  &lt;li&gt;Paden en afstanden&lt;/li&gt;
+  &lt;li&gt;Benaderingen&lt;/li&gt;
+  &lt;li&gt;Correctheid en logica&lt;/li&gt;
+  &lt;li&gt;Eindopdracht&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Docenten worden aangemoedigd unplugged activiteiten te gebruiken en begrippen toe te lichten en te introduceren.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;vereiste-hard--en-software&quot;&gt;VEREISTE HARD- EN SOFTWARE&lt;/h2&gt;
+&lt;p&gt;Voor de programmeeropdrachten is een programmeeromgeving nodig, dat kan bijvoorbeeld in een online editor zoals Repl.it. De voorbeelden zijn uitgewerkt in Python.&lt;/p&gt;
+
+&lt;h2 id=&quot;voorkennis&quot;&gt;VOORKENNIS&lt;/h2&gt;
+&lt;p&gt;De leerlingen zijn in staat algoritmes te lezen en op stellen met bijvoorbeeld een stroomdiagram. De leerlingen hebben een basis programmeren (zie domein D uit het kernprogramma). De voorbeelden in de module zijn in Python uitgewerkt, dus dat heeft de voorkeur.&lt;/p&gt;
+
+&lt;h2 id=&quot;belangrijkste-begrippen&quot;&gt;BELANGRIJKSTE BEGRIPPEN&lt;/h2&gt;
+&lt;p&gt;De belangrijkste begrippen bij deze module zijn algoritme, efficiëntie (complexiteit), looptijd, mate van groei, orde, grote O notatie, zoeken, sorteren, kortste pad, kortste ronde, logica, proposities, waarheidstabellen, connectieven (en/of/niet), (wederzijdse) implicatie.&lt;/p&gt;
+
+&lt;h2 id=&quot;keuze-en-verdieping&quot;&gt;KEUZE EN VERDIEPING&lt;/h2&gt;
+&lt;p&gt;Voor de leerlingen die meer uitdaging aan kunnen staan er enkele programmeeropdrachten beschreven en uitgewerkt in Python.&lt;/p&gt;
+
+&lt;h2 id=&quot;wijze-van-beoordelen&quot;&gt;WIJZE VAN BEOORDELEN&lt;/h2&gt;
+&lt;p&gt;Er wordt een voorbeeldtoets meegeleverd met het materiaal. Ook de eindopdracht, waarbij leerlingen zelf een algoritme uitpluizen en proberen zo efficiënt mogelijk te maken, kan worden beoordeeld.&lt;/p&gt;
+
+&lt;h2 id=&quot;omvang&quot;&gt;OMVANG&lt;/h2&gt;
+&lt;p&gt;De module is ongeveer &lt;strong&gt;40 SLU&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;docentenhandleiding&quot;&gt;DOCENTENHANDLEIDING&lt;/h2&gt;
+&lt;p&gt;De docentenhandleiding is beschikbaar via de online omgeving.&lt;/p&gt;
 </description>
             <pubDate>Fri, 25 Mar 2022 13:12:12 +0100</pubDate>
             <link>moorlag.github.io/ieni#/2022/03/25/keuze-g.html</link>
