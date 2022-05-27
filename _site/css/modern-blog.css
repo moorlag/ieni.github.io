@@ -242,9 +242,7 @@ a:focus {
 	background: #acaad1;
 }
 
-.body a {
-	color: #4f4c4c;
-}
+
 
 .body .header h1 span {
 	color: #4f4c4c;
@@ -281,11 +279,13 @@ a:focus {
 
 .links {
 	margin: 2em 0 0;
+	color: red;
 }
 
 .links a {
 	display: inline-block;
 	margin: 0 .5em;
+	color: hotpink;
 }
 
 /* cards wrapper and close btn */
